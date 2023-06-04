@@ -1,1 +1,1 @@
-# myass
+# Interpreter in Go
